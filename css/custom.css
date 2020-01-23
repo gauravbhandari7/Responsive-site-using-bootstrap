@@ -1,0 +1,44 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.navigat{
+    background-color: rgb(59,74,157);
+}
+.header-text{
+    color: rgb(238,125,121);
+}
+.vertical_line{
+    border-right: 4px solid blue;
+  height: 200px;
+  margin-top: 70px;
+}
+.for-color{
+    background-color: rgb(194,223,205);
+}
+.list-of-links ul{
+    list-style-type:none;
+    margin-top:40px;
+    margin-left: 70px;
+}
+.list-of-links li a{
+    color: rgb(34,104,94);
+    text-decoration: underline;
+}
+.background-photo{
+    background:url("https://mcdn.wallpapersafari.com/medium/16/93/pzcw2B.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+}
+.footer-darkcolor{
+    background-color: rgb(51,51,51);
+}
+.footer-list ul{
+    list-style-type: none;
+}
+.logo-color{
+    background-color: rgb(235,204,54);
+}
+.candidate-color{
+    background-color: rgb(135,182,226);
+}
